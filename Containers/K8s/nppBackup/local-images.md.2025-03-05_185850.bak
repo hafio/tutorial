@@ -1,0 +1,9 @@
+# Using local tar images for kubectl setup
+
+Refer to:
+- https://medium.com/@tanmaybhandge/how-do-you-use-the-local-images-in-kubernetes-f5cbf375079c
+- https://www.baeldung.com/ops/docker-local-images-minikube
+
+# Steps
+
+1. 
