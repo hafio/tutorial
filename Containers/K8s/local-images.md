@@ -4,6 +4,8 @@ Refer to:
 - https://medium.com/@tanmaybhandge/how-do-you-use-the-local-images-in-kubernetes-f5cbf375079c
 - https://www.baeldung.com/ops/docker-local-images-minikube
 - https://stackoverflow.com/questions/69981852/how-to-use-local-docker-images-in-kubernetes-deployments-not-minikube
+- https://github.com/containerd/cri/blob/master/docs/crictl.md#directly-load-a-container-image
+- https://blog.scottlowe.org/2020/01/25/manually-loading-container-images-with-containerd/
 
 # Steps
 
